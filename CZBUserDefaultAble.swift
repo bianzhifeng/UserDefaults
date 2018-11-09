@@ -10,7 +10,7 @@ import Foundation
 
 /// 设置存取key的协议
 public protocol CZBUserDefaultsSettable {
-//    var uniqueKey: String { get }
+
 }
 
 public extension CZBUserDefaultsSettable where Self: RawRepresentable, Self.RawValue == String {

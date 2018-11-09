@@ -25,7 +25,7 @@ private extension UserDefaults {
 UserDefaults.czbAble.name.store(value: "123")
 ```
 
-取值
+取值:
 ```
 UserDefaults.czbAble.name.storedString
 ```

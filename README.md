@@ -1,5 +1,5 @@
 ## 简介
- 一款快速通过UserDefaults存取数据的协议, 抛弃硬编码.
+ 一款快速通过UserDefaults存取数据的协议, 抛弃硬编码的形式, 统一管理key.
  
 ## 功能
  快速存取数据到UserDefaults
